@@ -12,9 +12,23 @@
       "size": 
     },
     {
+      "id": "0.984",
+      "type": "beta-mod",
+      "url": "https://raw.githubusercontent.com/asGenghiskhan/minecraftedulauncher_resources/main/games/0.984.jar",
+      "time": "",
+      "size": 
+    },
+    {
+      "id": "0.982_premium",
+      "type": "beta-mod",
+      "url": "https://raw.githubusercontent.com/asGenghiskhan/minecraftedulauncher_resources/main/games/0.982_premium.jar",
+      "time": "",
+      "size": 
+    },
+    {
       "id": "0.982",
       "type": "beta-mod",
-      "url": "",
+      "url": "https://raw.githubusercontent.com/asGenghiskhan/minecraftedulauncher_resources/main/games/0.982.jar",
       "time": "",
       "size": 
     }
